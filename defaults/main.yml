@@ -1,0 +1,7 @@
+# A list of files to remove, for instance:
+#
+#   fileremove_files:
+#     - /opt/foo
+#     - /opt/doo
+#
+fileremove_files: []
